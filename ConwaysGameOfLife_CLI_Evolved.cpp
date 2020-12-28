@@ -12,9 +12,6 @@
 
 using namespace std;
 
-// NOTE: Need way of loading premade map/screen/layout. Have it be read from some file or have a layout in this file that can be easily changed.
-// Might be easier if converted into a Qt application... However that would kind of suck.
-// Get input from console cursur. should return an X and Y value that can be used to place a cell.
 int nScreenWidth;
 int nScreenHeight;
 int nCellSpawnChance;
